@@ -1,9 +1,8 @@
 body {
     background-color: #D7CEC7;
-    background: url("https://photos-2.dropbox.com/t/2/AAATDqyQGH3DjBK7fD2K4_TReJZzGAF_IbL9bF1Vm0sVyw/12/718365675/jpeg/32x32/1/_/1/2/clothing.jpg/EIDOz-EGGAMgAigC/5j8afVzTrRb_Ui-4zL0wsYneGNNyF-O-6gUaxEcPvmo?size=2048x1536&size_mode=3");
-    background-size: cover;
     color: #fff;
     font-family: Helvetica;
+    text-align: center;
 }
 
 h1, p {
