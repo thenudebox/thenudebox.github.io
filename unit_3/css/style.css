@@ -2,7 +2,7 @@ body {
     background-color: #D7CEC7;
     color: #fff;
     font-family: Helvetica;
-    text-align: center;
+    align-content: center;
 }
 
 h1, p {
